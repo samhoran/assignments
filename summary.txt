@@ -1,0 +1,181 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         6
+	Longest value:         7 characters
+	Most common values:    None (21x)
+	                       C001108 (1x)
+	                       D000399 (1x)
+	                       L000583 (1x)
+	                       P000601 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         7
+	Longest value:         29 characters
+	Most common values:    FURNISHINGS (17x)
+	                       CHIEF ADMIN OFCR OF THE HOUSE (4x)
+	                       HON. JAMES COMER (1x)
+	                       HON. LLOYD DOGGETT (1x)
+	                       HON. BARRY LOUDERMILK (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (26x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         30 characters
+	Most common values:    CONGRESSIONAL TRANSITION (17x)
+	                       OFFICIAL EXPENSES OF MEMBERS (5x)
+	                       FINISH SCHEDULE (3x)
+	                       SALARIES  OFFICERS & EMPLOYEES (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         22 characters
+	Most common values:    EQUIPMENT (25x)
+	                       PERSONNEL COMPENSATION (1x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  True (excluded from calculations)
+	Unique values:         12
+	Smallest value:        2017-01-05
+	Largest value:         2017-03-24
+	Most common values:    2017-02-23 (11x)
+	                       2017-01-09 (3x)
+	                       2017-03-24 (2x)
+	                       2017-02-17 (2x)
+	                       None (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         3
+	Longest value:         2 characters
+	Most common values:    AP (23x)
+	                       GL (2x)
+	                       None (1x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         14
+	Longest value:         10 characters
+	Most common values:    901728 (11x)
+	                       908086 (2x)
+	                       GLA0064748 (2x)
+	                       None (1x)
+	                       901999 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         10
+	Longest value:         38 characters
+	Most common values:    BENTLEY MILLS INC (11x)
+	                       AMERICAS INTERIOR SERVICES CORPORATION (5x)
+	                       BLOOMSBURG CARPET INDUSTRIES INC (2x)
+	                       None (2x)
+	                       VAUGHAN JR ALAN M. (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         13
+	Smallest value:        2016-10-21
+	Largest value:         2017-02-24
+	Most common values:    2016-10-21 (11x)
+	                       2017-02-24 (2x)
+	                       2016-12-29 (2x)
+	                       2016-12-21 (2x)
+	                       2017-01-01 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         13
+	Smallest value:        2016-10-24
+	Largest value:         2017-03-31
+	Most common values:    2016-10-24 (11x)
+	                       2017-02-24 (2x)
+	                       2016-12-29 (2x)
+	                       2016-12-21 (2x)
+	                       2017-03-31 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         14
+	Longest value:         19 characters
+	Most common values:    CARPET (13x)
+	                       MANAGER  CARPET (1x)
+	                       CARPET QTY - 426.67 (1x)
+	                       CARPET QTY - 24 (1x)
+	                       CARPET QTY - 40 (1x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         26
+	Smallest value:        575.04
+	Largest value:         156,001.43
+	Sum:                   611,389.52
+	Mean:                  23,514.982
+	Median:                8,237.945
+	StDev:                 33,701.632
+	Most common values:    24,488.76 (1x)
+	                       1,059.01 (1x)
+	                       23,466.85 (1x)
+	                       39,757.04 (1x)
+	                       575.04 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   52,425
+	Mean:                  2,016.346
+	Median:                2,016
+	StDev:                 0.485
+	Most common values:    2,016 (17x)
+	                       2,017 (9x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         10
+	Longest value:         38 characters
+	Most common values:    BENTLEY MILLS INC (11x)
+	                       AMERICAS INTERIOR SERVICES CORPORATION (5x)
+	                       BLOOMSBURG CARPET INDUSTRIES INC (2x)
+	                       None (2x)
+	                       VAUGHAN JR ALAN M. (1x)
+
+Row count: 26

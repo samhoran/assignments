@@ -1,0 +1,1 @@
+This CSV file contains congressional expenditures whose purposes included the phrase "carpet" and that exceeded $500 in the first quarter of 2017. There are 26 such transactions, most of which were made by either the Chief Administrative Officer of the House or by the Furnishings Office.

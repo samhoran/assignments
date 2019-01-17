@@ -25,7 +25,8 @@ print(green_vegetables)
 with open('greenveggies.json', 'w') as f:
     json.dump(green_vegetables, f, indent = 2)
 
-#with open('greenveggies.csv','w') as f:
-#	writer = csv.writer(f)
-#	writer.writerow(['name','color','name_length'])
-#	for v in green_vegetables
+with open('greenveggies.csv','w') as f:
+	writer = csv.writer(f)
+	writer.writerow(['name','color','name_length'])
+	for v in green_vegetables:
+		writer.writerow([v['name'],v['color'],v['name_length']])

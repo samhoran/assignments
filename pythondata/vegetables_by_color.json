@@ -1,40 +1,40 @@
 {
-  "yellow": [
-    {
-      "color": "yellow",
-      "name_length": "4",
-      "name": "corn"
-    }
-  ],
   "green": [
     {
+      "name": "okra",
       "color": "green",
-      "name_length": "4",
-      "name": "okra"
+      "name_length": "4"
     },
     {
+      "name": "arugula",
       "color": "green",
-      "name_length": "7",
-      "name": "arugula"
+      "name_length": "7"
     },
     {
+      "name": "broccoli",
       "color": "green",
-      "name_length": "8",
-      "name": "broccoli"
+      "name_length": "8"
     }
   ],
-  "red": [
+  "yellow": [
     {
-      "color": "red",
-      "name_length": "6",
-      "name": "tomato"
+      "name": "corn",
+      "color": "yellow",
+      "name_length": "4"
     }
   ],
   "purple": [
     {
+      "name": "eggplant",
       "color": "purple",
-      "name_length": "8",
-      "name": "eggplant"
+      "name_length": "8"
+    }
+  ],
+  "red": [
+    {
+      "name": "tomato",
+      "color": "red",
+      "name_length": "6"
     }
   ]
 }

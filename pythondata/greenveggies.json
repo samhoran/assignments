@@ -1,17 +1,17 @@
 [
   {
-    "color": "green",
     "name_length": "4",
+    "color": "green",
     "name": "okra"
   },
   {
-    "color": "green",
     "name_length": "7",
+    "color": "green",
     "name": "arugula"
   },
   {
-    "color": "green",
     "name_length": "8",
+    "color": "green",
     "name": "broccoli"
   }
 ]

@@ -1,1 +1,32 @@
-[{"color": "purple", "name length": "8", "name": "eggplant"}, {"color": "red", "name length": "6", "name": "tomato"}, {"color": "yellow", "name length": "4", "name": "corn"}, {"color": "green", "name length": "4", "name": "okra"}, {"color": "green", "name length": "7", "name": "arugula"}, {"color": "green", "name length": "8", "name": "broccoli"}]
+[
+  {
+    "name_length": "8",
+    "name": "eggplant",
+    "color": "purple"
+  },
+  {
+    "name_length": "6",
+    "name": "tomato",
+    "color": "red"
+  },
+  {
+    "name_length": "4",
+    "name": "corn",
+    "color": "yellow"
+  },
+  {
+    "name_length": "4",
+    "name": "okra",
+    "color": "green"
+  },
+  {
+    "name_length": "7",
+    "name": "arugula",
+    "color": "green"
+  },
+  {
+    "name_length": "8",
+    "name": "broccoli",
+    "color": "green"
+  }
+]

@@ -1,15 +1,14 @@
 import csv
 import json
 
-with open('veggies.csv','r') as f:
+#Read CSV file (vegetables.csv)
+with open('vegetables.csv','r') as f:
 	reader = csv.DictReader(f)
-	rows = list(reader)
+	vegetables = [dict(row) for row in reader] #Convert ordered dict to list of dict
 
-vegetables = []
-for row in rows:
-	item = dict(row)
-	vegetables.append(item)
+#Print variable vegetables
 print(vegetables)
 
+#Write JSON file (vegetables.json)
 with open('vegetables.json','w') as f:
-	json.dump(vegetables,f)
+	json.dump(vegetables,f,indent=2)
